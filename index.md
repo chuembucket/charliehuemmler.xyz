@@ -2,13 +2,11 @@
 
 ---
 
-### Resume
-<img src="pdf/resume.pdf/>"
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[San Francisco Parking Demand Prediction](/toknit.html)
+<img src="images/sfpic.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
