@@ -15,10 +15,13 @@
 <img src="images/sfpic.png?raw=true"/>
 
 ---
-[Philly 311 Abandonded Vehicle Reports](/geospatialriskmd.rmd)
+[Philly 311 Abandonded Vehicle Reports](/geospatialriskmd.html)
 <img src="images/abv.png?raw=true"/>
 
 ---
+
+[Predicting Home Prices in Charlotte, NC](/midterm.html)
+<img src="images/charlotte.png"/>
 
 ### Discord Botting
 
