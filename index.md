@@ -3,14 +3,16 @@
 ---
 
 
-### Category Name 1 
+### Sample Coursework
+
+---
+[Indego Bike Share Rebalancing Plan](/bsrmd.html)
+<img src="images/indego.gif?raw=true"/>
 
 [San Francisco Parking Demand Prediction](/toknit.html)
 <img src="images/sfpic.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
