@@ -6,7 +6,7 @@
  
  I love Philadelphia and am a huge believer in its future. I grew up in the suburbs along the Media/Wawa line and currently live in the Fishtown neighborhood. Exploring the city by bicycle or SEPTA and mapping my routes on Strava is one of my favorite activities. Seeing all the legacy infrastructure and cultural diversity, my mental map of the city is quite strong, but there is always more to explore. 
  
-  Apart from school, I keep busy playing video games with my friends on Discord, playing disc golf at Sedgley Woods, or playing bike polo. 
+  Apart from school, I keep busy playing League of Legends with my friends on Discord, playing disc golf at [Sedgley Woods](https://www.sedgleywoods.com/), or playing [bike polo](https://linktr.ee/phillybikepolo). 
 
 
 
