@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br>
 
-  <a href="/images/resume.pdf"> Resume Download</a>
+  <a href="/images/resume.pdf"> Resume </a>
 
   
 theme: jekyll-theme-minimal

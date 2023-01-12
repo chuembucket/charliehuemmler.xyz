@@ -5,6 +5,7 @@
 ## University of Pennsylvania
   
 - Master of Urban Spatial Analytics
+  - Coursework in Public Policy Analytics, Economic Development, Javascript for Planners, Public Finance, Cloud Computing, Land Use Modeling
 - Graduating May 2023
 - MUSA Student Council Representative 
   
@@ -19,7 +20,7 @@
 ## Stockholm School of Economics 
   
 - Fall 2018 Semester Abroad
-- Coursework in Swedish Language, Energy, Behavioral, and European Integration Economics
+  - Coursework in Swedish Language, Energy, Behavioral, and European Integration Economics
 
 ## Strath Haven High School
 - Public School in Delaware County, PA
