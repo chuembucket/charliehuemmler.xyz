@@ -19,9 +19,9 @@
 ## Stockholm School of Economics 
   
 - Fall 2018 Semester Abroad
-- Course work in Swedish Language, Energy, Behavorial, and European Integration Economics
+- Coursework in Swedish Language, Energy, Behavioral, and European Integration Economics
 
 ## Strath Haven High School
-- Public School in Delware County, PA
+- Public School in Delaware County, PA
 - Class of 2016
 - [Eagles Halftime show Marching Band Performance](https://www.youtube.com/watch?v=MP2Nelf25aA&ab_channel=NancyFullam)
