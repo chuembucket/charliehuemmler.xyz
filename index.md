@@ -1,6 +1,13 @@
 ## [About Me](/index.md) - [Education](/education.md) - [Portfolio](/portfolio.md)
 
- I am currently in the Masters of Urban Spatial Analytics program at the University of Pennsylvania Weitzman School of Design, focusing on economic  development and sustainable transportation. The skills I am learning are designed to modernize the data capabilities of any public or non-profit institution. I love Philadelphia and am a strong advocate of public transit and micro-mobility infrastructure.
+---
+
+ I am student in the Masters of Urban Spatial Analytics program at the University of Pennsylvania Weitzman School of Design. The MUSA program teaches leading-edge data science skills in the context of public sector decision making, from machine learning predictive modeling to spatial web application development. Furthermore, I am taking domain specific coursework in economic development, public finance, sustainable transportation, and energy policy. 
+ 
+ I love Philadelphia and am a huge believer in its future. I grew up in the suburbs along the Media/Wawa line and currently live in the Fishtown neighborhood. Exploring the city by bicycle or SEPTA and mapping my routes on Strava is one of my favorite activities. Seeing all the legacy infrastructure and cultural diversity, my mental map of the city is quite strong, but there is always more to explore. 
+ 
+  Apart from school, I keep busy playing video games with my friends on Discord, playing disc golf at Sedgley Woods, or playing bike polo. 
+
 
 
 

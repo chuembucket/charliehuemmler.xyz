@@ -2,15 +2,6 @@
 
 ---
 
-
-## Portfolio
-
----
-
-### Data Science Coursework
-
----
-
 [Indego Bike Share Rebalancing Plan](/bsrmd.html)
 <img src="images/indego.gif?raw=true"/>
 

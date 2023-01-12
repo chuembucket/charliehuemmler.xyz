@@ -2,8 +2,16 @@
 
 ---
 
+## University of Pennsylvania
+  
+  Master of Urban Spatial Analytics -- Fall 2022 - Spring 2023
+  
+## Colgate University
 
-## Education
+  Major in Mathematical Economics 
+  
+## Stockholm School of Economics 
+  
+  Junior year semester abroad
 
-Go gate
- and penn
+## Strath Haven High School
