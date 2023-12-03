@@ -1,4 +1,4 @@
-## [About Me](/index.md) - [Education](/education.md) - [Portfolio](/portfolio.md)
+## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
 ---
 
