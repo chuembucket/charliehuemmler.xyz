@@ -5,6 +5,7 @@
 👋 Hello, I'm Charlie Huemmler, a recent graduate of Master of Urban Spatial Analytics from the University of Pennsylvania. As a member of Generation Z, my career is driven by a commitment to advancing environmental justice in Philadelphia.
 
 🌍 **Public Sector Open-Source Advocate**
+
 I firmly believe that the public sector's adoption of open-source software is pivotal in addressing the intertwined challenges of climate change and social inequality. With expertise in open-source data science, GIS, and cloud computing acquired during my Urban Spatial Analytics program, I am equipped to leverage these tools for collaborative and innovative solutions.
 
 🌆 **Urban Planner**
