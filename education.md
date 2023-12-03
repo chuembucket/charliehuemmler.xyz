@@ -20,7 +20,7 @@
 - Captain of Jabberwock Ultimate Frisbee Team
 - Founder of Colgate Esports Club
 
-<img src="images/see.png?raw=true" width="3in" height="2in"/>
+<img src="images/sse.png?raw=true" width="3in" height="2in"/>
   
 ## Stockholm School of Economics - Stockholm, Sweden
   
