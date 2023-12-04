@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/penn.png?raw=true" width="3in" height="2in"/>
+<img src="images/penn.png?raw=true" width="20%" height="15%"/>
 ## University of Pennsylvania - Philadelphia, PA
   
 - Master of Urban Spatial Analytics
@@ -10,7 +10,9 @@
 - Graduating May 2023
 - MUSA Student Council Representative 
 
-<img src="images/gate.jpg?raw=true" width="3in" height="2in"/>
+<img src="images/gate.jpg?raw=true" width="20%" height="15%"/>
+
+---
 
 ## Colgate University - Hamilton, NY
 
@@ -20,14 +22,18 @@
 - Captain of Jabberwock Ultimate Frisbee Team
 - Founder of Colgate Esports Club
 
-<img src="images/sse.png?raw=true" width="3in" height="2in"/>
+<img src="images/sse.png?raw=true" width="20%" height="15%"/>
+  
+---
   
 ## Stockholm School of Economics - Stockholm, Sweden
   
 - Fall 2018 Semester Abroad
   - Coursework in Swedish Language, Energy, Behavioral, and European Integration Economics
   
-<img src="images/shhs.jpg?raw=true" width="3in" height="2in"/>
+<img src="images/shhs.jpg?raw=true" width="20%" height="15%"/>
+
+---
 
 ## Strath Haven High School - Wallingford, PA
 - Class of 2016

@@ -1,6 +1,18 @@
 ## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
 ---
+## MUSA Practicum
+
+[JavaScript Dashboard Link](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/)
+[RMarkdown Report](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
+
+### Dashboards
+
+[Fishtown Dashboard](x.com)
+
+
+
+### Markdown reports
 
 [Indego Bike Share Rebalancing Plan](/bsrmd.html)
 <img src="images/indego.gif?raw=true"/>
