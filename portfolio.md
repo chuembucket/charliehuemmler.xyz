@@ -1,9 +1,22 @@
 ## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
 ---
+
 ## MUSA Practicum
 
+<img src="images/sunmetro.gif?raw=true"/>
+
+
+Building a latent bus ridership demand model and interactive app to allow El Paso planners to reconfigure their local bus network to interoperate better with newly built Sun Metro bus rapid transit system.
+
+
+
+<img src="images/sunmetroapp.png?raw=true"/>
+
+
 [JavaScript Dashboard Link](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/)
+
+
 [RMarkdown Report](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
 
 ### Dashboards
