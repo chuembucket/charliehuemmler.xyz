@@ -1,8 +1,9 @@
 ## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
 ---
+## MUSA Coursework Gallery
 
-## MUSA Practicum
+### MUSA 8000 _Practicum_
 
 <img src="images/sunmetro.gif?raw=true"/>
 
@@ -14,18 +15,15 @@ My team and I built a latent bus ridership demand model and interactive app to a
 <img src="images/sunmetoapp.png?raw=true"/>
 
 
-[JavaScript Dashboard](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/)
+[JavaScript Dashboard](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/) - [Final Presentation](https://jtrummler.xyz/assets/FinalPres_Practicum_ElPaso_0502.pdf) - [RMarkdown](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
 
-
-[RMarkdown](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
-
-### Dashboards
+### MUSA 6110 _Java Script Programming for Planners and Designers_
 
 [Fishtown Dashboard](x.com)
 
 
 
-### Markdown reports
+### MUSA 5080	_Public Policy Analytics_
 
 [Indego Bike Share Rebalancing Plan](/bsrmd.html)
 <img src="images/indego.gif?raw=true"/>
@@ -42,3 +40,5 @@ My team and I built a latent bus ridership demand model and interactive app to a
 ---
 [Predicting Home Prices in Charlotte, NC](/midterm.html)
 <img src="images/charlotte.png"/>
+
+### CPLN 6750 _Land Use and Environmental Modeling_
