@@ -7,17 +7,17 @@
 <img src="images/sunmetro.gif?raw=true"/>
 
 
-Building a latent bus ridership demand model and interactive app to allow El Paso planners to reconfigure their local bus network to interoperate better with newly built Sun Metro bus rapid transit system.
+My team and I built a latent bus ridership demand model and interactive app to allow El Paso planners to reconfigure their local bus network to interoperate better with the newly built Sun Metro bus rapid transit system.
 
 
 
-<img src="images/sunmetroapp.png?raw=true"/>
+<img src="images/sunmetoapp.png?raw=true"/>
 
 
-[JavaScript Dashboard Link](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/)
+[JavaScript Dashboard](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/)
 
 
-[RMarkdown Report](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
+[RMarkdown](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
 
 ### Dashboards
 
