@@ -1,5 +1,5 @@
 title: Charlie Huemmler # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/logo1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   he/him <br>
@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.twitter.com/chuembucket"> X 🙄 </a> 
   <a href="https://www.linkedin.com/in/charleshuemmler/"> LinkedIn </a> 
   <a href="https://www.strava.com/athletes/6928466"> Strava </a> 
+  <a hred="https://www.discordapp.com/users/281290793652584448"> <img src="images/discord.png?raw=true"/></a>
   
   <br>
 
