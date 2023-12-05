@@ -8,11 +8,11 @@
 
 I firmly believe that the public sector's adoption of open-source software is pivotal in addressing the intertwined challenges of climate change and social inequality. With expertise in open-source data science, GIS, and cloud computing acquired during my Urban Spatial Analytics program, I am equipped to leverage these tools for collaborative and innovative solutions.
 
-🌆 **Urban Planner**
-I am genuinely passionate about cities – the tapestry of spaces, communities, and possibilities. As an urban planner, I thrive on the interplay of ideas that shape urban landscapes. My specific domain knowledge in public transit, energy systems, and urban economic development allows me to envision and implement strategies that contribute to the sustainable growth and vitality of cities.
+🌆 **Regional Planner**
+I am genuinely passionate about cities – the tapestry of spaces, communities, and possibilities, and their interplay with the rural and suburban areas around them. As an urban planner, I thrive on the interplay of ideas that shape urban landscapes. My specific domain knowledge in public transit, energy systems, and urban economic development allows me to envision and implement strategies that contribute to the sustainable growth and vitality of cities and their regions.
 
 🏙 **Public Transit and Cycling Advocate**
-Beyond theory, I actively engage with Philadelphia's urbanism. Car-free and frequently commuting by bike or SEPTA, I intimately understand the nuances of urban mobility. This firsthand experience positions me to address the challenges and opportunities inherent in creating sustainable urban environments.
+Beyond theory, I actively engage with Philadelphia's urbanism. Car-free and frequently commuting by bike or SEPTA, I intimately understand the nuances of urban mobility. This firsthand experience positions me to address the challenges and opportunities inherent in creating sustainable urban environments.  
 
 ⛲ **Let's Connect!**
 I'm enthusiastic about connecting with fellow changemakers, urban enthusiasts, and sustainability advocates. If you share my passion for cultivating a greener and more equitable Philadelphia, let's collaborate and explore ways to make our city thrive.
