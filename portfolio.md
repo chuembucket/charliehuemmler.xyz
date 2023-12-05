@@ -3,7 +3,7 @@
 ---
 ## MUSA Coursework Gallery
 
-### MUSA 8000 _Practicum_
+### _MUSA 8000_ Practicum
 
 <img src="images/sunmetro.gif?raw=true"/>
 
@@ -17,28 +17,25 @@ My team and I built a latent bus ridership demand model and interactive app to a
 
 [JavaScript Dashboard](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/) - [Final Presentation](https://jtrummler.xyz/assets/FinalPres_Practicum_ElPaso_0502.pdf) - [RMarkdown](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
 
-### MUSA 6110 _Java Script Programming for Planners and Designers_
+---
+
+### _MUSA 6110_ Java Script Programming for Planners and Designers
 
 [Fishtown Dashboard](x.com)
 
+---
 
+### _MUSA 5080_	Policy Analytics
 
-### MUSA 5080	_Public Policy Analytics_
+[<img src="images/indego.gif?raw=true"/>](/bsrmd.html)
 
-[Indego Bike Share Rebalancing Plan](/bsrmd.html)
-<img src="images/indego.gif?raw=true"/>
+Indego Bike Share Rebalancing Plan
 
 ---
 
 [San Francisco Parking Demand Prediction](/toknit.html)
 <img src="images/sfpic.png?raw=true"/>
 
----
-[Philly 311 Abandonded Vehicle Reports](/geospatialriskmd.html)
-<img src="images/abv.png?raw=true"/>
 
----
-[Predicting Home Prices in Charlotte, NC](/midterm.html)
-<img src="images/charlotte.png"/>
 
-### CPLN 6750 _Land Use and Environmental Modeling_
+### _CPLN 6750_ Land Use and Environmental Modeling
