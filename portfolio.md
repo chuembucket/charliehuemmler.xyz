@@ -21,7 +21,9 @@ My team and I built a latent bus ridership demand model and interactive app to a
 
 ### _MUSA 6110_ Java Script Programming for Planners and Designers
 
-[Fishtown Dashboard](x.com)
+[Fishtown Dashboard](https://chuembucket.github.io/fishtownmap/site/)
+
+<img src="images/fishtownapp.png?raw=true"/>
 
 ---
 
