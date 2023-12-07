@@ -5,14 +5,15 @@
 
 ### _MUSA 8000_ Practicum
 
-<img src="images/sunmetro.gif?raw=true"/>
+
 
 
 My team and I built a latent bus ridership demand model and interactive app to allow El Paso planners to reconfigure their local bus network to interoperate better with the newly built Sun Metro bus rapid transit system.
 
 
-
 <img src="images/sunmetoapp.png?raw=true"/>
+
+<img src="images/sunmetro.gif?raw=true"/>
 
 
 [JavaScript Dashboard](https://chuembucket.github.io/ElPaso-Bus-Network1/App/site/) - [Final Presentation](https://jtrummler.xyz/assets/FinalPres_Practicum_ElPaso_0502.pdf) - [RMarkdown](https://pennmusa.github.io/MUSA_801.io/project_30/index.html)
@@ -41,13 +42,13 @@ Indego Bike Share Rebalancing Plan
 
 ### _CPLN 6750_ Land Use and Environmental Modeling
 
-<img src="images/landuse1.pdf?raw=true"/>
+<img src="images/landuse1-1.png?raw=true"/>
 
 ---
 
 Urban Growth Modeling in Delaware County, PA
 
-[<img src="images/landuse1.pdf?raw=true"/>](/landuse2.html)
+[<img src="images/landuse2pic.png?raw=true"/>](/landuse2.html)
 
 
 
