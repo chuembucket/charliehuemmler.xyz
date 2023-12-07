@@ -39,5 +39,15 @@ Indego Bike Share Rebalancing Plan
 <img src="images/sfpic.png?raw=true"/>
 
 
-
 ### _CPLN 6750_ Land Use and Environmental Modeling
+
+<img src="images/landuse1.pdf?raw=true"/>
+
+---
+
+Urban Growth Modeling in Delaware County, PA
+
+[<img src="images/landuse1.pdf?raw=true"/>](/landuse2.html)
+
+
+
