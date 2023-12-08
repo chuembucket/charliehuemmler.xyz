@@ -2,19 +2,18 @@
 
 ---
 
-👋 Hello, I'm Charlie Huemmler, a recent graduate of Master of Urban Spatial Analytics from the University of Pennsylvania. As a member of Generation Z, my career is driven by a commitment to advancing environmental justice in Philadelphia.
+👋 Hello, I'm Charlie Huemmler, a recent Master of Urban Spatial Analytics graduate from the University of Pennsylvania. As a member of Generation Z, my career is driven by a commitment to advancing environmental justice in Philadelphia and its metropolitan region.
 
-🌍 **Public Sector Open-Source Advocate**
+🌍 **Open-Source Software for the Public Sector**
+I firmly believe that the public sector's adoption of open-source software is crucial in addressing the intersecting challenges of climate change and social inequality. With expertise in open-source data science, GIS, and cloud computing acquired during my Urban Spatial Analytics program, I am equipped to leverage these tools for collaborative and innovative solutions.
 
-I firmly believe that the public sector's adoption of open-source software is pivotal in addressing the intertwined challenges of climate change and social inequality. With expertise in open-source data science, GIS, and cloud computing acquired during my Urban Spatial Analytics program, I am equipped to leverage these tools for collaborative and innovative solutions.
-
-🌆 **Regional Planner**
-I am genuinely passionate about cities – the tapestry of spaces, communities, and possibilities, and their interplay with the rural and suburban areas around them. As an urban planner, I thrive on the interplay of ideas that shape urban landscapes. My specific domain knowledge in public transit, energy systems, and urban economic development allows me to envision and implement strategies that contribute to the sustainable growth and vitality of cities and their regions.
+🌆 **Regional Lense to Planning**
+Having grown up in Delaware County, and now living in Philadelphia, I have a strong understanding of the metropolitan region and the economic and cultural forces that tie the urban, suburban, and rural areas together. My specific domain knowledge in public transportation, energy systems, and economic development allows me to envision and implement strategies that contribute to the sustainable growth and vitality of cities and their regions.
 
 🏙 **Public Transit and Cycling Advocate**
-Beyond theory, I actively engage with Philadelphia's urbanism. Car-free and frequently commuting by bike or SEPTA, I intimately understand the nuances of urban mobility. This firsthand experience positions me to address the challenges and opportunities inherent in creating sustainable urban environments.  
+I am a proud member of Philadelphia's urbanist advocacy community. I live car-free and travel the city by bike or SEPTA, so I intimately understand the nuances of urban mobility here. Philly already has strong urbanism, with its gridded street network and extensive electrified passenger rail service, and with more investment in these strengths I know it has potential to be a global leader in environmental justice. 
 
 ⛲ **Let's Connect!**
-I'm enthusiastic about connecting with fellow changemakers, urban enthusiasts, and sustainability advocates. If you share my passion for cultivating a greener and more equitable Philadelphia, let's collaborate and explore ways to make our city thrive.
+I'm all about connecting with fellow changemakers, urbanists, and sustainability advocates. If you share my passion for cultivating a greener and more equitable Philadelphia, let's collaborate and explore ways to make our city thrive.
  
-🏆 You can find me in Philadelphia playing disc golf at [Sedgley Woods](https://www.sedgleywoods.com/), pick-up with [Philly Bike Polo](https://linktr.ee/phillybikepolo), or esports at [The Block](https://nerdstreet.com/venues/localhost-in-philly). 
+🏆 You can find me in Philadelphia playing disc golf at [Sedgley Woods](https://www.sedgleywoods.com/), pick-up with [Philly Bike Polo](https://linktr.ee/phillybikepolo), esports at [The Block](https://nerdstreet.com/venues/localhost-in-philly), or riding my bike with [Wednesday Night Rides](https://wednightrides.org/).
