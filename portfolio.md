@@ -1,7 +1,7 @@
 ## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
 ---
-## MUSA Coursework Gallery
+## [MUSA Coursework Gallery](/portfolio.md) - [Economic Development Toolkit](edt.md)
 
 ### _MUSA 8000_ Practicum
 
@@ -30,14 +30,21 @@ My team and I built a latent bus ridership demand model and interactive app to a
 
 ### _MUSA 5080_	Policy Analytics
 
+#### Indego Bike Share Rebalancing Plan
+
+This assignment assists hypothetical Indego operations by predicting when and where Indego stations will be full or empty, allowing the proactive deployment of field technicians to manually rebalance the system.
+
+I use predictor variables for weather, station fixed effect, and a temporal lag, with the most accurate model on average 0.6 off the actual. 
+
 [<img src="images/indego.gif?raw=true"/>](/bsrmd.html)
 
-Indego Bike Share Rebalancing Plan
 
 ---
+#### San Francisco Parking Demand Prediction
 
-[San Francisco Parking Demand Prediction](/toknit.html)
-<img src="images/sfpic.png?raw=true"/>
+
+[<img src="images/sfpic.png?raw=true"/>](/toknit.html)
+
 
 
 ### _CPLN 6750_ Land Use and Environmental Modeling
