@@ -42,20 +42,18 @@ I use predictor variables for weather, station fixed effect, and a temporal lag,
 ---
 #### San Francisco Parking Demand Prediction
 
+This assignment examines 5 weeks of parking meter interactions in core San Francisco in order to create a fictional phone app. This app would allow for dynamical pricing based on a block's expected occupancy fora ny given time of day, day of the week, and weather. 
 
 [<img src="images/sfpic.png?raw=true"/>](/toknit.html)
 
 
 
 ### _CPLN 6750_ Land Use and Environmental Modeling
-
-<img src="images/landuse1-1.png?raw=true"/>
-
----
-
-Urban Growth Modeling in Delaware County, PA
+#### Urban Growth Modeling in Delaware County, PA
 
 [<img src="images/landuse2pic.png?raw=true"/>](/landuse2.html)
 
+---
 
-
+#### 
+<img src="images/landuse1-1.png?raw=true"/>
