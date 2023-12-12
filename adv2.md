@@ -1,6 +1,10 @@
 ## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
 
-https://www.inquirer.com/news/nation-world/cars-millennials-gen-z-climate-change-movies-songs-20230404.html
+
+<iframe src="https://www.inquirer.com/news/nation-world/cars-millennials-gen-z-climate-change-movies-songs-20230404.html" width="100%" height="100%"></iframe>
+
+
+<iframe src="https://www.inquirer.com/news/nation-world/cars-millennials-gen-z-climate-change-movies-songs-20230404" width="100%" height="100%"></iframe>
 
 https://x.com/chuembucket/status/1644047183870840833?s=20
 
