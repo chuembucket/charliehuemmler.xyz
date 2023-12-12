@@ -12,7 +12,7 @@ As a Masters student, I was the Student Council representative for the MUSA prog
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First <a href="https://twitter.com/WeitzmanSchool?ref_src=twsrc%5Etfw">@WeitzmanSchool</a> social ride! <a href="https://t.co/5Myiyv7qpP">pic.twitter.com/5Myiyv7qpP</a></p>&mdash; Charlie Huemmler (@chuembucket) <a href="https://twitter.com/chuembucket/status/1617712681183744002?ref_src=twsrc%5Etfw">January 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<img src="images/SocialRide_Flyer.png?raw=true"/>
+<img src="images/SocialRide_Flyer.jpg?raw=true"/>
 
 ---
 
