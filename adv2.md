@@ -4,16 +4,4 @@ https://www.inquirer.com/news/nation-world/cars-millennials-gen-z-climate-change
 
 https://x.com/chuembucket/status/1644047183870840833?s=20
 
-https://x.com/chuembucket/status/1641296523760631809?s=20
-
-https://x.com/chuembucket/status/1530241285369606147?s=20
-
-https://twitter.com/chuembucket/status/1466104658032836610
-
-## Philly Bike Action
-
-## 5th Square
-
-## Bicycle Coalition 
-
-[adv2](/adv2.md)
+[tweet](/https://x.com/chuembucket/status/1641296523760631809?s=20)
