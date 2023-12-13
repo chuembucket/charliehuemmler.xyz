@@ -17,12 +17,14 @@
 
 ## Colgate University - Hamilton, NY
 
-- Graduated May 2020
+
 - Major in Mathematical Economics
   - Coursework in Data Analytics, Econometrics, Financial Economics, Data Visualization, Environmental Data Science, Music Theory and Production, History of World Empires
+- Graduated May 2020
 - Captain of Jabberwock Ultimate Frisbee Team
 - Founder of Colgate Esports Club
 - Commuted by bike or foot
+
 ---
 
 <img src="images/schools/sse.png?raw=true" width="400p" />
@@ -31,7 +33,7 @@
   
 - Fall 2018 Semester Abroad
   - Coursework in Swedish Language, Energy Economics, Behavioral Economics, and European Integration Economics
-  - Commuted daily on Tunnelbana Metro system
+  - Commuted on Tunnelbana Metro system
   
 ---  
   
@@ -39,5 +41,5 @@
 
 ## Strath Haven High School - Wallingford, PA
 - Class of 2016
-- [Eagles Halftime show Marching Band Performance](https://www.youtube.com/watch?v=MP2Nelf25aA&ab_channel=NancyFullam)
-- Commuted primarily by car 
+- [Eagles Halftime show Marching Band Performance (Trombone)](https://www.youtube.com/watch?v=MP2Nelf25aA&ab_channel=NancyFullam)
+- Commuted primarily by car 👎
