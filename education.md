@@ -6,13 +6,13 @@
 ## University of Pennsylvania - Philadelphia, PA
   
 - Master of Urban Spatial Analytics
-  - Coursework in Public Policy Analytics, Economic Development, Javascript for Planners, Public Finance, Cloud Computing, Land Use Modeling
-- Graduating May 2023
+  - Coursework in Public Policy Analytics, Economic Development, Javascript for Planners, Public Finance, Cloud Computing, Land Use Modeling, Energy Systems and Policy
+- Graduated May 2023
 - MUSA Student Council Representative 
 
 ---
 
-<img src="images/gate.jpg?raw=true" width="20%" height="15%"/>
+<img src="images/gate.jpg?raw=true" width="400p"/>
 
 ## Colgate University - Hamilton, NY
 
@@ -24,7 +24,7 @@
 
 ---
 
-<img src="images/sse.png?raw=true" width="20%" height="15%"/>
+<img src="images/sse.png?raw=true" width="400p" height="350p"/>
   
 ## Stockholm School of Economics - Stockholm, Sweden
   
@@ -33,7 +33,7 @@
   
 ---  
   
-<img src="images/shhs.jpg?raw=true" width="20%" height="15%"/>
+<img src="images/shhs.jpg?raw=true" width="30%" />
 
 ## Strath Haven High School - Wallingford, PA
 - Class of 2016
