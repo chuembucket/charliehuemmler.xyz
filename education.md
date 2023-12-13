@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/penn.png?raw=true" width="20%" height="15%"/>
+<img src="images/penn.png?raw=true" width="400p"/>
 ## University of Pennsylvania - Philadelphia, PA
   
 - Master of Urban Spatial Analytics
@@ -16,7 +16,7 @@
 
 ## Colgate University - Hamilton, NY
 
-- Class of 2020
+- Graduated May 2020
 - Major in Mathematical Economics
   - Coursework in Data Analytics, Econometrics, Financial Economics, Data Visualization, Environmental Data Science, Music Theory and Production, History of World Empires
 - Captain of Jabberwock Ultimate Frisbee Team
@@ -24,12 +24,12 @@
 
 ---
 
-<img src="images/sse.png?raw=true" width="400p" height="350p"/>
+<img src="images/sse.png?raw=true" width="400p" />
   
 ## Stockholm School of Economics - Stockholm, Sweden
   
 - Fall 2018 Semester Abroad
-  - Coursework in Swedish Language, Energy, Behavioral, and European Integration Economics
+  - Coursework in Swedish Language, Energy Economics, Behavioral Economics, and European Integration Economics
   
 ---  
   
