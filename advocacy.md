@@ -1,4 +1,4 @@
-## [Bio](/index.md) - [Urban Analytics](/portfolio.md) - [Advocacy](/advocacy.md) - [Education](/education.md) 
+## ['[Bio]'](/index.md) - [[Urban Analytics]](/portfolio.md) - [```[Advocacy]```](/advocacy.md) - [Education](/education.md) 
 
 ---
 
@@ -32,7 +32,3 @@ And of course, **BUILD THE ROOSEVELT BOULEVARD SUBWAY**!!!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We need the movement to land on this meeting, who&#39;s coming? <a href="https://t.co/SStz4WUHHe">https://t.co/SStz4WUHHe</a> <a href="https://t.co/WMhM3CZOXm">pic.twitter.com/WMhM3CZOXm</a></p>&mdash; Roosevelt Blvd Subway (@BlvdSubway) <a href="https://twitter.com/BlvdSubway/status/1729993134610723137?ref_src=twsrc%5Etfw">November 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-
-[adv2](/adv2.md)

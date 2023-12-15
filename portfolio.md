@@ -5,7 +5,7 @@
 
 ### _MUSA 8000_ Practicum
 
-During my Practicum project, my team and I worked with the City of El Paso Capital Improvements Department to construct a latent bus ridership demand model and an interactive app. This app enabled them to reconfigure their local bus network to better integrate with the newly constructed Sun Metro bus rapid transit system. 
+During my Practicum project, my team and I worked with the City of El Paso Capital Improvements Department to construct a latent bus ridership demand model and interactive app. This app enabled them to reconfigure their local bus network to better integrate with the newly constructed Sun Metro bus rapid transit system. 
 
 <img src="images/sunmetoapp.png?raw=true"/>
 
@@ -17,7 +17,7 @@ During my Practicum project, my team and I worked with the City of El Paso Capit
 
 #### [Fishtown Dashboard](https://chuembucket.github.io/fishtownmap/site/)
 
-For the final project in this course, I built a dashboard displaying housing and land use characteristics of the Fishtown neighborhood, imagining the Fishtown Neighbors Association  Zoning Committee as the user. By swapping between the Zoning, Building Height, and Commerce overlays, Zoning Committee members can gain relevant parcel level information, helping to facilitate meeting dialogue.
+For the final project in this course, I built a dashboard displaying housing and land use characteristics of the Fishtown neighborhood, imagining the Fishtown Neighbors Association  Zoning Committee as the user. By swapping between the Zoning, Building Height and Commerce overlays, Zoning Committee members can gain relevant parcel level information, helping to facilitate meeting dialogue.
 
 
 <img src="images/fishtownapp.png?raw=true"/>
