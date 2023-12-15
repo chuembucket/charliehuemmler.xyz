@@ -1,4 +1,4 @@
-## ['[Bio]'](/index.md) - [[Urban Analytics]](/portfolio.md) - [```[Advocacy]```](/advocacy.md) - [Education](/education.md) 
+## [[Bio]](/index.md) - [[Urban Analytics]](/portfolio.md) - [```[Advocacy]```](/advocacy.md) - [[Education]](/education.md) 
 
 ---
 
