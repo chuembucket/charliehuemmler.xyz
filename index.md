@@ -7,7 +7,7 @@
 🌍 **Open-Source Software for the Public Sector**
 I firmly believe that the public sector's adoption of open-source software is crucial in addressing the intersecting challenges of climate change and social inequality. With expertise in open-source data science, GIS, and cloud computing acquired during my Urban Spatial Analytics program, I am equipped to leverage these tools for collaborative and innovative solutions.
 
-🌆 **Regional Lense to Planning**
+🌆 **Regional Lens to Planning**
 Having grown up in Delaware County, and now living in Philadelphia, I have a strong understanding of the metropolitan region and the economic and cultural forces that tie the urban, suburban, and rural areas together. My specific domain knowledge in public transportation, energy systems, and economic development allows me to envision and implement strategies that contribute to the sustainable growth and vitality of cities and their regions.
 
 🏙 **Public Transit and Cycling Advocate**
